@@ -1,2 +1,2 @@
 line 1
-commit 4 reverted
+commit 4
