@@ -1,2 +1,5 @@
 line 1
+<<<<<<< HEAD
 commit 4
+=======
+>>>>>>> parent of 7b89c27 (commit 2)
